@@ -727,7 +727,7 @@ follow
 food
 foot
 force
-forest
+foret
 forget
 fork
 fortune
